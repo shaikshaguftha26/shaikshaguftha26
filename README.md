@@ -93,21 +93,6 @@ Problem solving using Java and Data Structures & Algorithms.
 
 ---
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=shaikshaguftha26\&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaikshaguftha26\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaikshaguftha26\&layout=compact\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=shaikshaguftha26\&theme=tokyonight)
-
----
 
 ## 👀 Profile Views
 
