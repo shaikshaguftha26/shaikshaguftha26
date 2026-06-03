@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Shaik Shaguftha Ahmed 👋
 
-<!--
-**shaikshaguftha26/shaikshaguftha26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
 
-Here are some ideas to get you started:
+💻 Web Development Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☁️ Learning Cloud, AI, SQL & DSA
+
+🚀 Building projects and improving my skills every day
+
+## Skills
+
+* Java
+* SQL
+* HTML
+* CSS
+* JavaScript
+* Firebase
+* Git & GitHub
+
+## Currently Learning
+
+* Data Structures & Algorithms
+* Full Stack Development
+* Cloud Computing
+* Generative AI
+
